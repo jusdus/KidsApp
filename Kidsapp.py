@@ -1,0 +1,2 @@
+<ScatterTextWidget>:
+    orientation: 'vertical'
